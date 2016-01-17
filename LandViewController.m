@@ -106,6 +106,9 @@
     }];
     
     self.tableView.delegate = self;
+    self.tableView.delegate = self;
+    self.tableView.delegate = self;
+    self.tableView.delegate = self;
     self.tableView.dataSource = self;
     
     numberOfRows = 1;
